@@ -13,6 +13,7 @@ limited to 82 bytes.
 adding the characters EOF (as provided) will signal the end of a
 test and send the file to wait for a usb to be plugged in and recieve
 the files.
+This program is also solely built for linux, specifically a raspberry pi.
 /*----------------------------------------------------------------*/
 Installation instructions!
 
