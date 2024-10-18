@@ -96,4 +96,3 @@ setup above.
 
 STILL SEEING ERRORS?
 email me!
-willard@willardsoftware.com
